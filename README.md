@@ -1,1 +1,1 @@
-https://www.encosoft.co.kr/
+https://git.encosoft.co.kr/
